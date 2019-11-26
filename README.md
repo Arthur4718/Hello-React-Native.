@@ -1,6 +1,8 @@
 # React-Native-Sample
 A simple project using JS components and React Native.
 
+![Alt text](https://imgur.com/a/B4dt6fr "Optional title")
+
 Display a list of elements. Each element can be detalailed by clicking on it and the list implements pagination.
 
 ```javascript
